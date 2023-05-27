@@ -1,0 +1,2 @@
+# yzim23
+YAPAY_ZEKA_ÇALIŞMALARI
